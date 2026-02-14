@@ -1,0 +1,21 @@
+# ¿Qué aprendiste sobre el flujo de trabajo con Git y GitHub?
+
+_aprendi el proceso completo de trabajo con Git y GitHub. Primero creé un repositorio público llamado mi-primer-proyecto-progra1 en GitHub. Luego lo cloné en mi computadora usando el comando git clone. Después creé el archivo README.md, agregué información del proyecto y realicé cambios utilizando git add, git commit y git push para subirlos al repositorio remoto._
+
+_También aprendi a trabajar con ramas usando git branch y git checkout -b, lo cual permite hacer cambios sin afectar directamente la rama principal (main). Finalmente comprendí cómo fusionar una rama con git merge y la importancia de mantener un historial organizado de commits._
+
+# ¿Cómo fue la experiencia de trabajar individualmente? ¿Encontraste algún conflicto? ¿Cómo lo resolviste?
+
+_En mi caso trabajé individualmente. La experiencia fue positiva porque pude practicar cada comando paso a paso y entender mejor cómo funciona el control de versiones._
+
+_No tuve conflictos con otras personas, pero sí comprendí cómo podrían ocurrir si dos personas modifican la misma línea del archivo. En caso de que hubiera un conflicto, se debe editar manualmente el archivo, guardar los cambios y luego usar git add, git commit y git push para finalizar la solución._
+
+_Trabajar solo me permitió enfocarme en aprender bien los comandos y entender el flujo completo del proceso._
+
+# ¿Qué ventajas crees que tiene usar Git en proyectos de programación?
+
+_Git tiene varias ventajas importantes. Permite llevar un control detallado de todos los cambios realizados en el proyecto, facilita regresar a versiones anteriores si ocurre un error y mejora la organización del código._
+
+_Además, al usar GitHub, el proyecto queda almacenado en la nube, lo que evita la pérdida de información y permite acceder al repositorio desde cualquier lugar. También facilita el trabajo en equipo cuando es necesario._
+
+
